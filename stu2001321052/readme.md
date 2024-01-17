@@ -1,9 +1,9 @@
-# Project tasks distribution
+# Разпределение на задачите за проекта 
 ![Tasks distribution](trello-tasks-distribution.png)
 
 Може да видите разпределението на задачите в Trello проекта на следния линк: [Разпределение на задачите в Trello](https://trello.com/invite/b/71u4Jcpa/ATTIe4dea5fd130ecbc38f5e7db35acc37cbB7E15298/new-alexandria-updated)
 
-## Разпределение на финансите от Moonshot
+# Разпределение на финансите от Moonshot
 
 <center>
 
