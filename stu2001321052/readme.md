@@ -16,7 +16,7 @@
     }
 </style>
 
-<div style="display:flex;justify-content:center">
+<center>
 
 | Разходи                                | Сума (лв.) |
 | -------------------------------------- | ---------: |
@@ -32,12 +32,12 @@
 | Рекламиране                            |       1860 |
 | **Общо**                               | **25 000** |
 
-</div>
+</center>
 
 <div style="display:flex;justify-content:center">
-<p align="center">
+<center>
 
 ![Financial distribution](financial-distribution.png)
 
-</p>
+</center>
 </div>
