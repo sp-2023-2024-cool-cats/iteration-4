@@ -5,7 +5,7 @@
 
 ## Разпределение на финансите от Moonshot
 
-<style>
+<!-- <style>
     table {
         width: 600px;
         max-width: 100%;
@@ -14,7 +14,7 @@
     image {
         text-align: center;
     }
-</style>
+</style> -->
 
 <center>
 
