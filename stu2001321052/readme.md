@@ -5,17 +5,6 @@
 
 ## Разпределение на финансите от Moonshot
 
-<!-- <style>
-    table {
-        width: 600px;
-        max-width: 100%;
-    }
-
-    image {
-        text-align: center;
-    }
-</style> -->
-
 <center>
 
 | Разходи                                | Сума (лв.) |
@@ -34,10 +23,8 @@
 
 </center>
 
-<div style="display:flex;justify-content:center">
 <center>
 
 ![Financial distribution](financial-distribution.png)
 
 </center>
-</div>
